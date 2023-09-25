@@ -1,1 +1,3 @@
 # gitexercises
+
+shkruni diqka
